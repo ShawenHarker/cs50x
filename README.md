@@ -1,0 +1,3 @@
+# cs50x
+
+This is my journey of CS50x
